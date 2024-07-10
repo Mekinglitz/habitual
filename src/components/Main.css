@@ -1,0 +1,19 @@
+/* src/components/Main.css */
+.products-section {
+    padding: 2rem;
+  }
+  
+  .products-section h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+  }
+  .h2{
+    display: flex;
+  }
+  

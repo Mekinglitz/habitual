@@ -1,0 +1,27 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #dde8e8e4;
+    color: #fff;
+  }
+  
+  .logo-title h1 {
+    margin: 0;
+  }
+  
+  .navbar a {
+    margin: 0 1rem;
+    color: #141414d4;
+    text-decoration: none;
+    
+  }
+  
+  .auth-links a {
+    margin-left: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  

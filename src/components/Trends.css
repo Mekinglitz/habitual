@@ -1,0 +1,29 @@
+/* src/components/Trends.css */
+.trends {
+    padding: 2rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .trends .search-bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .trends input {
+    padding: 0.5rem;
+    width:300px;
+  margin-right: 0.5rem;
+  }
+  
+  .trends button {
+  padding: 0.5rem 1rem;
+  background-color: #121111;
+  border: none;
+  color: #d6d0c9;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  font-weight: 250;
+  font-size: small;
+  }

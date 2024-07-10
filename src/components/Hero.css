@@ -1,0 +1,25 @@
+/* src/components/Hero.css */
+.hero {
+    background: url('/public/hng3/hero.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: left;
+    height: 20rem;
+  }
+  
+  .hero h2 {
+    margin-bottom: 1rem;
+    font-size: 5rem;
+    color: black;
+    width: 60%;
+  }
+  
+  .hero button {
+    padding: 0.5rem 1rem;
+    background-color: #201e1d;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 2rem;
+  }
+  
